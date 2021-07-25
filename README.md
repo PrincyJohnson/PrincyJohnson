@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @PrincyJohnson
-- 👀 I’m interested in calculating the Polygenic risk scores (PRS).
+- 👀 I’m interested in genomics, bioinformatics and few areas in neuroinformatics.
+- Trying a new way to calculate Polygenic risk scores (PRS).
+- GWAS and TWAS studies.
+- NGS analysis.
+- SNP detections in genes and docking analysis.
 
 
 
