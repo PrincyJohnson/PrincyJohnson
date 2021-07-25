@@ -4,6 +4,7 @@
 - GWAS and TWAS studies.
 - NGS analysis.
 - SNP detections in genes and docking analysis.
+- And I love coding**
 
 
 
