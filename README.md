@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @PrincyJohnson
-- 👀 I’m interested in genomics, bioinformatics and few areas in neuroinformatics.
-- Trying a new way to calculate Polygenic risk scores (PRS).
-- GWAS and TWAS studies.
-- NGS analysis.
-- SNP detections in genes and docking analysis.
-- And I love coding**
+- 👀 I am obsessed with coding 👩🏻‍💻
+- Specialized in Genomics and Bioinformatics
+- I am also someone who works hard during the day to go back to her books 📚 at night!
+
 
 
 
